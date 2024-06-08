@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @alexceend
-- 👀 I’m interested in learning new things while working on my projects.
-- 🌱 I’m currently learning a Software Engineering Degree (UPM)
-- 💞️ I’m looking to collaborate on different things
-- 📫 You can reach me on my [email](alexceend@gmail.com) or on my [Twitter](https://twitter.com/alexceend)
+Hiiii, I’m @alexceend, currently studying Software Engineering Degree in the UPM (Polythecnic University of Madrid)
+You can reach me on my [email](alexceend@gmail.com) or on my [Twitter](https://twitter.com/alexceend)
 
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg');]{x0000}$}
+```
 <!---
 alexceend/alexceend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
