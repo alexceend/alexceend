@@ -8,3 +8,27 @@ You can reach me on my [email](alexceend@gmail.com) or on my [Twitter](https://t
 alexceend/alexceend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+```math
+\documentclass{article}
+\usepackage{background}
+\usepackage{graphicx}
+\usepackage{lipsum} % For placeholder text
+
+\backgroundsetup{
+  scale=1,
+  color=black,
+  opacity=0.5,
+  angle=0,
+  position=current page.south west,
+  vshift=0,
+  hshift=0,
+  contents={%
+    \includegraphics[width=1.3\paperwidth,height=\paperheight]{https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg}%
+  }
+}
+
+\begin{document}
+\noindent
+\lipsum[1-10] % Replace with your own content
+\end{document}```
