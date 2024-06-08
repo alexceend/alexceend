@@ -10,14 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```math
-% Define a command to set the background image
 \newcommand\BackgroundPic{
     \put(0,0){
         \parbox[b][\paperheight]{\paperwidth}{
-            \vfill
             \centering
-            \includegraphics[width=1.3\paperwidth,height=\paperheight,keepaspectratio]{https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg}
-            \vfill
+            \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{https://imgs.search.brave.com/qKQGMJIYcS3t2HZWM6wAX5zrf4hfz88_5u_9e5oc3B0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbmdm/cmUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9jYXQtNzktMS0y/MTh4MzAwLnBuZw}
         }
     }
 }
@@ -30,4 +27,5 @@ You can click the Preview link to take a look at your changes.
 % Your document content
 \noindent
 \lipsum[1-10] % Replace with your own content
+
 ```
