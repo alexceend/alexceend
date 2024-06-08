@@ -10,25 +10,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```math
-\documentclass{article}
-\usepackage{background}
-\usepackage{graphicx}
-\usepackage{lipsum} % For placeholder text
-
-\backgroundsetup{
-  scale=1,
-  color=black,
-  opacity=0.5,
-  angle=0,
-  position=current page.south west,
-  vshift=0,
-  hshift=0,
-  contents={%
-    \includegraphics[width=1.3\paperwidth,height=\paperheight]{https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg}%
-  }
+% Define a command to set the background image
+\newcommand\BackgroundPic{
+    \put(0,0){
+        \parbox[b][\paperheight]{\paperwidth}{
+            \vfill
+            \centering
+            \includegraphics[width=1.3\paperwidth,height=\paperheight,keepaspectratio]{https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg}
+            \vfill
+        }
+    }
 }
 
-\begin{document}
+\AddToShipoutPictureBG*{\BackgroundPic}
+
+% Example usage of \ce{}
+\ce{H2O} % Just to show \ce{} usage, but not for background
+
+% Your document content
 \noindent
 \lipsum[1-10] % Replace with your own content
-\end{document}```
+```
