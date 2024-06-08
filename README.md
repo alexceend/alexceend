@@ -33,11 +33,6 @@ You can click the Preview link to take a look at your changes.
 ----------------------------------------
 
 ```math
-\documentstyle{article} % Using \documentstyle for older LaTeX distributions
-
-\begin{document}
-\href{https://example.com/image.jpg}{\includegraphics[width=2cm]{[example-image](https://imgs.search.brave.com/qKQGMJIYcS3t2HZWM6wAX5zrf4hfz88_5u_9e5oc3B0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbmdm/cmUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9jYXQtNzktMS0y/MTh4MzAwLnBuZw)}}
-
-\end{document}
+![Alt text](https://imgs.search.brave.com/qKQGMJIYcS3t2HZWM6wAX5zrf4hfz88_5u_9e5oc3B0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbmdm/cmUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9jYXQtNzktMS0y/MTh4MzAwLnBuZw)
 
 ```
