@@ -11,5 +11,5 @@
 ![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=alexceend&theme=github_dark_dimmed&locale=es&order_by=stars&custom_title=Contribuciones&hide=B&title_color=ffffff)
 
   ## 💰 You can help me by Donating
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alexceend)
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alexceend)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alexceend)
